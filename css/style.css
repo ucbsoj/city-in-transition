@@ -9,6 +9,7 @@ html,body{
 /* fonts */
 body{
 	font-family: Lato, "Helvetica Neue", Arial, sans-serif;
+    font-weight: 400;
 	color: #333;
 }
 h1, h2, h3, h4, h5, h6 {
@@ -18,7 +19,9 @@ h1, h2, h3, h4, h5, h6 {
 	font-family: Georgia, serif;
 }
 
-
+.story{
+  font-weight: 400;
+}
 /* CSS for hero image, either background photo or background video */
 .hero{
   background-image: url("../assets/colombia/manitas_3.jpg");
