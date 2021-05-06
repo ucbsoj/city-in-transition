@@ -11,6 +11,8 @@ body{
 	font-family: Lato, "Helvetica Neue", Arial, sans-serif;
     font-weight: 400;
 	color: #333;
+    font-size: 1.3rem;
+    line-height: 1.6em;
 }
 h1, h2, h3, h4, h5, h6 {
 	font-family: Georgia, "Times New Roman", Times, serif;
